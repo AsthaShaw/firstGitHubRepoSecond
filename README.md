@@ -1,4 +1,7 @@
 
+
+
+
 This is a demo
 
 git divergent branches - when does branches gets diverse when they have separate commits. So you need to reconcile too
@@ -17,7 +20,7 @@ git pull --rebase origin main
 git log —oneline really cool
 
 This video is a good reference for divergent branches
-https://www.youtube.com/watch?v=HzBoMI7yqsU&t=50s
 
+https://www.youtube.com/watch?v=HzBoMI7yqsU&t=50s
 
 
